@@ -5,7 +5,7 @@ Hello there! 👋 I'm Nethmi Dileka, a passionate student of Computer Science wi
 ## About
 
 - 🎓 Currently pursuing a degree in Computer Science.
-- 💻 Enthusiastic about web development and building awesome websites.
+- 💻 Enthusiastic about Backend development and building awesome websites.
 - 🤖 Fascinated by the realms of machine learning and AI, exploring its applications and advancements.
 - 🌱 Always eager to learn and explore new technologies.
 - 📚 Constantly honing my skills and knowledge through projects and self-learning.
