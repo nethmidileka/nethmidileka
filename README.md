@@ -31,7 +31,7 @@ I'm always open to collaboration and discussions. Feel free to reach out to me:
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethmidileka&theme=github_dark" alt="nethmidileka's GitHub Stats"/>
 </div>
   
 
