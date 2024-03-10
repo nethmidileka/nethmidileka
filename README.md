@@ -21,6 +21,6 @@ I'm always open to collaboration and discussions. Feel free to reach out to me:
 - 📧 Email: [Your Email Address](mailto:nethmidilekaamindinigmail.com)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nethmidilekaperera/)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
   
 
