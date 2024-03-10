@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+    <p>I'm a undergraduate student specializing in ComputerScience.</p>
 </div>
