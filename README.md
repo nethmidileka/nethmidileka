@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Nethmi Dileka, a passionate student of Computer Science with a keen interest in web development, machine learning, and artificial intelligence. Welcome to my GitHub profile!
+Hello there! 👋 I'm Nethmi Dileka, a passionate student of Computer Science with a keen interest in Backend development, machine learning, and artificial intelligence. Welcome to my GitHub profile!
 
 ## About
 
