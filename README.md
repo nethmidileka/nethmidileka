@@ -23,6 +23,8 @@ I'm always open to collaboration and discussions. Feel free to reach out to me:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nethmidilekaperera)
+
 <div>
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/nethmidilekaperera/">
