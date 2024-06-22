@@ -2,6 +2,12 @@
 
 Hello there! 👋 I'm Nethmi Dileka, a passionate student of Computer Science with a keen interest in Backend development, machine learning, and artificial intelligence. Welcome to my GitHub profile!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwidanethmina&label=Profile%20views&color=0e75b6&style=flat" alt="nethmidileka" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethmidileka" alt="ashwidanethmina" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ashwidanethmina" target="blank"><img src="https://img.shields.io/twitter/follow/ashwidanethmina?logo=twitter&style=for-the-badge" alt="nethmidileka" /></a> </p>
+
 ## About
 
 - 🎓 Currently pursuing a degree in Computer Science.
