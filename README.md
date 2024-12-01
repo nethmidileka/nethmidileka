@@ -24,8 +24,8 @@ Feel free to explore my repositories for more projects and contributions!
 
 I'm always open to collaboration and discussions. Feel free to reach out to me:
 
-- 📧 Email: [Your Email Address](mailto:nethmidilekaamindinigmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nethmidilekaperera/)
+- 📧 Email: [My Email Address](mailto:nethmidilekaamindinigmail.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nethmidilekaperera/)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
