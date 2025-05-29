@@ -38,7 +38,7 @@
 - Learning Kubernetes for Deployment
 - Contributing to Open Source Projects
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [x] Complete 3 Major Projects
 - [ ] Publish a Technical Blog Post
@@ -52,7 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmidilekaperera/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nethmidileka)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmidilekaamindinigmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+me)
   
 </div>
 
