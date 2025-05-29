@@ -1,53 +1,69 @@
-# About Me
+# 🌟 Welcome to My GitHub Universe! 
 
-Hello there! 👋 I'm Nethmi Dileka, a passionate student of Computer Science with a keen interest in Backend development, machine learning, and artificial intelligence. Welcome to my GitHub profile!
+**Hello World!** I'm Nethmi Dileka, a passionate Computer Science student diving deep into the realms of Backend Development and AI/ML. I love turning coffee into code and ideas into reality!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmidileka&label=Profile%20views&color=0e75b6&style=flat" alt="nethmidileka" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Backend+Developer;AI%2FML+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethmidileka" alt="nethmidileka" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nethmidileka" target="blank"><img src="https://img.shields.io/twitter/follow/nethmidileka?logo=twitter&style=for-the-badge" alt="nethmidileka" /></a> </p>
-
-## About
-
-- 🎓 Currently pursuing a degree in Computer Science.
-- 💻 Enthusiastic about Backend development.
-- 🤖 Fascinated by the realms of machine learning and AI, exploring its applications and advancements.
-- 🌱 Always eager to learn and explore new technologies.
-- 📚 Constantly honing my skills and knowledge through projects and self-learning.
-
-
-
-Feel free to explore my repositories for more projects and contributions!
-
-## Get in Touch
-
-I'm always open to collaboration and discussions. Feel free to reach out to me:
-
-- 📧 Email: [My Email Address](mailto:nethmidilekaamindinigmail.com)
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nethmidilekaperera/)
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=nethmidilekaperera)
-
-<div>
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/nethmidilekaperera/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
+## 🚀 My Tech Stack
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethmidileka&theme=github_dark" alt="nethmidileka's GitHub Stats"/>
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</div>
   
+| **Area**       | **Technologies**                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| 💻 Languages   | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| 🛠️ Backend     | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+| 🧠 AI/ML       | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| 🗃️ Databases   | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
 
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethmidileka&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmidileka&layout=compact&langs_count=8&theme=radical"/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=nethmidileka&theme=radical)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=nethmidileka&color=blueviolet&style=flat-square)
+</div>
+
+## 🌱 Currently Growing
+
+- Mastering Microservices Architecture
+- Exploring Generative AI Models
+- Learning Kubernetes for Deployment
+- Contributing to Open Source Projects
+
+## 🎯 2024 Goals
+
+- [x] Complete 3 Major Projects
+- [ ] Publish a Technical Blog Post
+- [ ] Earn AWS Certification
+- [ ] Contribute to 5+ Open Source Projects
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmidilekaperera/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nethmidileka)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmidilekaamindinigmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+  
+</div>
+
+## ✨ Fun Fact
+
+"I once debugged a program for 6 hours only to find I was missing a semicolon. The lesson? Always check the basics first!"
+
+---
+
+<p align="center">
+  <img src="https://github.com/nethmidileka/nethmidileka/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+⭐ From [Nethmi Dileka](https://github.com/nethmidileka)
