@@ -62,8 +62,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/nethmidileka/nethmidileka/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+
 
 ⭐ From [Nethmi Dileka](https://github.com/nethmidileka)
